@@ -1,0 +1,28 @@
+{
+    "DeckName": "Drinking Deck",
+
+    "DeckBy": "Lastation Community",
+
+    "Dares": [
+        "From now on take a sip everytime your name appears on screen.",
+        "Take a sip everytime <player> says 'Nep'.",
+        "Completely chug your whole drink",
+        "Hand out <range[1-5]> sips.",
+        "Hand out <range[1-5]> shots.",
+        "Give <player> up to <range[1-10]> shots, you can give them less!",
+        "Split <range[1-10]> shots between <local> & <player>!",
+        "Pick one person here, they have to chug the rest of their drink!",
+        "[Waterfall] Keep drinking until <player> stops!",
+        "You now have to match every shot <player> takes until your next turn.",
+        "<player> can give you up to <range[1-5]> shots, be nice!",
+        "Take <range[1-5]> sips of your drink.",
+        "Take <range[1-5]> shots.",
+        "YOU'RE A DOG! Bark everytime you drink.",
+        "You're a cat! Meow everytime you drink.",
+        "[Clear] All previous dares and remaining challanges are now void!",
+        "You're now the designated driver, no more drinking for you! For <range[1-2]> rounds.",
+        "[Cheers] Everyone drinks!",
+        "Tell a joke, and if no one laughs, take <range[1-5]> sips.",
+        "[JailCard] Get out of jail free card! You can cancel one of your Dares, or someone else's."
+    ]
+}
