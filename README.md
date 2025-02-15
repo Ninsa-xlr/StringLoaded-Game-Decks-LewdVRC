@@ -1,23 +1,21 @@
 Have fun and have a wonderful day! ❤️
 Love, Ninsa
 
-This JSON is used for two specific VRChat worlds:
+
+This JSON is used for two specific VRChat worlds
+__________________
 🔗 True Or Dare
+__________________
+
 🔗 Board Game
+__________________
+
+
 
 🌸✨ Remember: You are amazing just the way you are! Keep shining and spreading kindness. ✨🌸
+_______________________________________________________________________________________________
 
-
-
-
-
-
-
-
-
-
-
-
+______________________________________________________________________________
 MIT License
 
 Copyright (c) 2024 Lastation
