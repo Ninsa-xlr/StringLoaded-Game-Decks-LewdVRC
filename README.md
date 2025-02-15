@@ -1,4 +1,10 @@
-Have Fun And A nice Day Love Ninsa
+Have fun and have a wonderful day! ❤️
+Love, Ninsa
+
+This JSON is for a specific VRChat world:
+🔗 VRChat World Link
+
+🌸✨ Remember: You are amazing just the way you are! Keep shining and spreading kindness. ✨🌸
 
 
 MIT License
