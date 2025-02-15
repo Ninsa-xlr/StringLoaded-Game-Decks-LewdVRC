@@ -4,7 +4,37 @@ Love, Ninsa
 This JSON is for a specific VRChat world:
 🔗 VRChat World Link
 
+
+
 🌸✨ Remember: You are amazing just the way you are! Keep shining and spreading kindness. ✨🌸
+
+
+
+                    mm                                              
+*@@@m   *@@@*       @@                                              
+  @@@m    @                                                         
+  @ @@@   @       *@@@       *@@@@@@@@m        m@@*@@@      m@*@@m  
+  @  *@@m @         @@         @@    @@        @@   **     @@   @@  
+  @   *@@m!         !@         @!    @@        *@@@@@m      m@@@!@  
+  !     !@!         !@         @!    !@             @@     @!   !@  
+  !   *!!!!         !!         !!    !!        *!   @!      !!!!:!  
+  !     !!!         !!         !!    !!        !!   !!     !!   :!  
+: : :    :!!      : : :      : :::  :!: :      : :!:       :!: : !: 
+                                                                    
+                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 MIT License
