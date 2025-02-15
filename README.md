@@ -4,10 +4,10 @@ Love, Ninsa
 
 This JSON is used for two specific VRChat worlds
 __________________
-🔗 True Or Dare
+True Or Dare: https://vrchat.com/home/world/wrld_cbe6c10b-af85-40ae-b879-8cc42785a7ef
 __________________
 
-🔗 Board Game
+Board Game: https://vrchat.com/home/world/wrld_e7bcfaee-9e39-4605-bd70-0514088820aa
 __________________
 
 
